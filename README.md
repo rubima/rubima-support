@@ -1,5 +1,9 @@
-rubima-support
-==============
+
+RubyistMagazine (るびま, https://magazine.rubyist.net/ ) の記事の typo 指摘や、るびまへの要望は https://github.com/rubima/magazine.rubyist.net/discussions までお願いします。
+
+----
+
+# rubima-support
 
 RubyistMagazine ( http://magazine.rubyist.net/ ) のサポートリポジトリです。
 
